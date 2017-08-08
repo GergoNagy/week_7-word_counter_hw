@@ -10,7 +10,6 @@ public class WordCounter {
     private WordCounter[] numberOfWords;
 
     public WordCounter(String sentence) {
-
         this.sentence = sentence;
     }
 
